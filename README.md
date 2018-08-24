@@ -2,6 +2,7 @@
 
 By [腾讯云学院](https://cloud.tencent.com/developer/edu)
 
+![](https://postimg.aliavv.com/newmbp/6fcr0.png)
 
 ## 课程简介
 
