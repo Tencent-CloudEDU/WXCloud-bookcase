@@ -7,6 +7,30 @@ By [腾讯云学院](https://cloud.tencent.com/developer/edu)
 
 本课程是基于微信小程序发布的[小程序云开发](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)服务来开发一个微信小程序的项目 Demo。
 
+## 课程目录
+
+1. [课程概述](https://cloud.tencent.com/developer/edu/learn-100005-1244/3154)
+2. [产品描述](https://cloud.tencent.com/developer/edu/learn-100005-1244/3142)
+3. [云开发简介](https://cloud.tencent.com/developer/edu/learn-100005-1244/3143)
+4. [微信登录实现](https://cloud.tencent.com/developer/edu/learn-100005-1244/3145)
+5. [添加图书的实现](https://cloud.tencent.com/developer/edu/learn-100005-1244/3146)
+6. [图书列表的实现](https://cloud.tencent.com/developer/edu/learn-100005-1244/3147)
+7. [图书信息查看、更新和删除的实现](https://cloud.tencent.com/developer/edu/learn-100005-1244/3148)
+
+## 课程基础信息
+
+课程类型：**免费课程**
+
+课程分类：**微信小程序开发基础课程**
+
+适合人群：**微信小程序开发人员**
+
+编程语言：**JavaScript**
+
+课程地址：[**https://cloud.tencent.com/developer/edu/course-100005-1244**](https://cloud.tencent.com/developer/edu/course-100005-1244)
+
+## 课程学习方法
+访问 https://cloud.tencent.com/developer/edu/course-100005-1244 ，使用腾讯云账号登录后即可免费学习。
 
 ## 联系我们
 
