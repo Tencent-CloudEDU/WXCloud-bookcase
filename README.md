@@ -1,12 +1,17 @@
-# 云开发 quickstart
+# 小程序云开发项目实战  · 私房书柜 · 课程 Demo
 
-这是云开发的快速启动指引，其中演示了如何上手使用云开发的三大基础能力：
+By [腾讯云学院](https://cloud.tencent.com/developer/edu)
 
-- 数据库：一个既可在小程序前端操作，也能在云函数中读写的 JSON 文档型数据库
-- 文件存储：在小程序前端直接上传/下载云端文件，在云开发控制台可视化管理
-- 云函数：在云端运行的代码，微信私有协议天然鉴权，开发者只需编写业务逻辑代码
 
-## 参考文档
+## 课程简介
 
-- [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
+本课程是基于微信小程序发布的[小程序云开发](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)服务来开发一个微信小程序的项目 Demo。
 
+
+## 联系我们
+
+添加微信号 **Tcloudedu** 并回复 1 可以进入到我们的云计算交流群。
+
+或扫描下方二维码添加学院君
+
+![二维码](https://ws2.sinaimg.cn/large/006tNc79ly1ftdrknbus3j30iq0owq3y.jpg)
