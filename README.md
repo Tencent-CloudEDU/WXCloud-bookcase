@@ -4,6 +4,8 @@ By [腾讯云学院](https://cloud.tencent.com/developer/edu)
 
 ![](https://postimg.aliavv.com/newmbp/6fcr0.png)
 
+## 国服云樱请求出战
+
 ## 课程需要
 
 进行小程序云开发的实践时，需要你自行申请小程序云开发的公测资格，申请地址：https://wj.qq.com/s/2368934/4eb2
@@ -44,3 +46,6 @@ By [腾讯云学院](https://cloud.tencent.com/developer/edu)
 或扫描下方二维码添加学院君
 
 ![二维码](https://ws2.sinaimg.cn/large/006tNc79ly1ftdrknbus3j30iq0owq3y.jpg)
+
+
+国服云樱请求出战hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
