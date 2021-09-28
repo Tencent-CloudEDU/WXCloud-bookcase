@@ -4,6 +4,15 @@ By [腾讯云学院](https://cloud.tencent.com/developer/edu)
 
 ![](https://postimg.aliavv.com/newmbp/6fcr0.png)
 
+
+## pr的测试
+
+    by--wave
+    
+## 课程需要
+
+进行小程序云开发的实践时，需要你自行申请小程序云开发的公测资格，申请地址：https://wj.qq.com/s/2368934/4eb2
+
 ## 课程简介
 
 本课程是基于微信小程序发布的[小程序云开发](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)服务来开发一个微信小程序的项目 Demo。
